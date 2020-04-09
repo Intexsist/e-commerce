@@ -14,7 +14,7 @@ import javax.validation.constraints.NotNull;
  *
  */
 @RestController
-@RequestMapping("/api/products")
+@RequestMapping("api/products")
 public class ProductController {
 
     private ProductService productService;
