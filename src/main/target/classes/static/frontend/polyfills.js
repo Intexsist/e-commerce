@@ -5473,7 +5473,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\User\git\e-commerce\src\main\frontend\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! C:\Users\User\git\e-commerce\e-commerce1\src\main\frontend\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })

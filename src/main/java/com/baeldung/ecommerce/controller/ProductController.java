@@ -14,7 +14,7 @@ import javax.validation.constraints.NotNull;
  *
  */
 @RestController
-@RequestMapping("api/products")
+@RequestMapping("/api/products")
 public class ProductController {
 
     private ProductService productService;
@@ -23,7 +23,7 @@ public class ProductController {
         this.productService = productService;
     }
 
-    @GetMapping(value = { "", "/" })
+    @GetMapping
     public @NotNull Iterable<Product> getProducts() {
         return productService.getAllProducts();
     }

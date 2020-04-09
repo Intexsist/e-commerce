@@ -580,8 +580,8 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\User\git\e-commerce\src\main\frontend\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
-module.exports = __webpack_require__(/*! C:\Users\User\git\e-commerce\src\main\frontend\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! C:\Users\User\git\e-commerce\e-commerce1\src\main\frontend\node_modules\bootstrap\dist\css\bootstrap.min.css */"./node_modules/bootstrap/dist/css/bootstrap.min.css");
+module.exports = __webpack_require__(/*! C:\Users\User\git\e-commerce\e-commerce1\src\main\frontend\src\styles.css */"./src/styles.css");
 
 
 /***/ })
